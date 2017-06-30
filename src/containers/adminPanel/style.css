@@ -1,0 +1,33 @@
+.divStyle{
+    padding: 0px 0px 30px 0px;
+    margin: 30px auto;
+    max-width: 500px;
+    text-align: center;
+    min-width: 50px;
+}
+.pdiv{
+       margin: 20px;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+    border: 5px solid #1f176f;
+    font-family: sans-serif;
+    font-weight: bold;
+    background: white;
+    color: navy;
+    box-shadow: 5px 5px 5px;
+}
+.divs{
+     margin: 20px;
+        padding: 20px;
+    text-align: center;
+    border: 5px solid skyblue;
+    font-family: sans-serif;
+}
+span.pdiv:hover{
+    background: navy;
+    color: white;
+}
+.numSize{
+    font-size: 40px
+}

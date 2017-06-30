@@ -1,0 +1,28 @@
+{
+  "name": "crime_report_and_missing_report_app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^3.7.4",
+    "jquery": "^3.2.1",
+    "material-ui": "^0.18.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux-persist": "^4.8.0"
+  },
+  "devDependencies": {
+    "react-redux": "^5.0.4",
+    "react-router": "^3.0.0",
+    "react-scripts": "0.9.5",
+    "redux": "^3.0.2",
+    "redux-thunk": "^2.2.0",
+    "axios": "^0.16.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

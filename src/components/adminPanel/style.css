@@ -1,0 +1,69 @@
+.divStyle{
+    padding: 0px 0px 30px 0px;
+    margin: 30px auto;
+    max-width: 700px;
+    text-align: center;
+    border: 2px solid navy;
+    /*background: rgba(187, 190, 208, 0.95);*/
+    box-shadow: 5px 5px 5px darkcyan;
+    min-width: 50px;
+}
+.mcqs{
+    padding: 20px;
+    margin: 10px 
+}
+#crimes{
+        margin: 20px;
+        padding: 20px;
+    display: inline-block;
+    
+    text-align: center;
+    border: 5px solid skyblue;
+    font-family: sans-serif;
+}
+
+#missing{
+     margin: 20px;
+        padding: 20px;
+    display: inline-block;
+    text-align: center;
+    border: 5px solid skyblue;
+    font-family: sans-serif;
+}
+
+#complaint{
+ margin: 20px;
+        padding: 20px;
+    display: inline-block;
+    text-align: center;
+    border: 5px solid skyblue;
+    font-family: sans-serif;
+}
+.divs{
+     margin: 20px;
+        padding: 20px;
+    text-align: center;
+    border: 5px solid skyblue;
+    font-family: sans-serif;
+}
+#panel, #flip  {
+    padding: 5px;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+#Sflip {
+    padding: 5px;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#oneIn{
+    padding: 50px;
+    display: none;
+}
